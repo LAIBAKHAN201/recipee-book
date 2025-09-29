@@ -1,5 +1,18 @@
 # recipe
+## Screenshots
 
+### Home Screen
+![Home Screen](lib/screenshots/homescreen.png)
+### recipe detail
+![recipee detail](lib/screenshots/recipedetail.png)
+### setting
+![setting](lib/screenshots/setting.png)
+### favorite screen
+![Login Screen](lib/screenshots/favorite.png)
+### search
+![setting](lib/screenshots/search.png)
+### category browser
+![Login Screen](lib/screenshots/categorybrowser.png)
 A new Flutter project.
 
 ## Getting Started
